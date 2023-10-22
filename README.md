@@ -30,7 +30,7 @@
 | TVBoxOSC      | https://github.com/o0HalfLife0o/TVBoxOSC/releases            | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
 | ZY-Player     | https://github.com/Hunlongyu/ZY-Player                       | 全平台                                                       |
 | TVBox接口合集 | [影视TV](https://xn--p3t555g.eu.org/) https://xn--p3t555g.eu.org/<br>[蓝鲸直播源](https://github.com/Cyril0563/lanjing_live) https://github.com/Cyril0563/lanjing_live<br>[TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk) https://github.com/Dong-learn9/TVBox-zyjk<br>[黎歌](https://www.lige.fit/tvbox) https://www.lige.fit/tvbox <br>[大聪明多多](https://yydsys.top/) https://yydsys.top/ <br>[TVbox网络接口展示](https://duo.hz.cz/box/api/) https://duo.hz.cz/box/api/ |                                                              |
-| 纯纯看番      | https://github.com/easybangumiorg/EasyBangumi<br>https://install.appcenter.ms/users/heyanle/apps/easybangumi/distribution_groups/easybangumi | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+| 纯纯看番      | https://github.com/easybangumiorg/EasyBangumi | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
 
 
 
