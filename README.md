@@ -1,15 +1,18 @@
 收集一些日常使用的软件，不定期更新
 # 漫画
 
-|     名称     |                             地址                             | 平台                                                         |
-| :----------: | ----------------------------------------------------------| ------------------------------------------------------------ |
-|  Tachiyomi   |               https://tachiyomi.org/download/                | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
-| TachiyomiJ2k |     https://github.com/Jays2Kings/tachiyomiJ2K/releases      | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+|     名称     | 地址                                                         | 平台                                                         |
+| :----------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|  Tachiyomi   | https://tachiyomi.org/download/                              | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+| TachiyomiJ2k | https://github.com/Jays2Kings/tachiyomiJ2K/releases          | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+| TachiyomiAZ  | https://github.com/az4521/TachiyomiAZ/releases/              | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+| TachiyomiSY  | https://github.com/jobobby04/TachiyomiSY/releases            | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+|    Mihon     | https://github.com/mihonapp/mihon/releases                   | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
 |     Miru     | https://miru.js.org/download/<br>https://github.com/miru-project/miru-app/releases | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/windows.svg "Windows")  ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
-|    Aidoku    |          https://github.com/Aidoku/Aidoku/releases           | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/apple.svg "苹果") |
+|    Aidoku    | https://github.com/Aidoku/Aidoku/releases                    | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/apple.svg "苹果") |
 |   NeeView    | https://apps.microsoft.com/detail/9P24Z53HC1JR <br> https://bitbucket.org/neelabo/neeview/wiki/Home | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/windows.svg "Windows") |
-|    异次元    |            https://yiciyuan.lanzoui.com/b00ej0kba            | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
-|    漫画迷    |             https://github.com/hongchacha/comic              | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+|    异次元    | https://yiciyuan.lanzoui.com/b00ej0kba                       | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+|    漫画迷    | https://github.com/hongchacha/comic                          | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
 
 
 
