@@ -1,5 +1,5 @@
 收集一些日常使用的软件，不定期更新
-# 漫画
+# 动漫
 
 |     名称     | 地址                                                         | 平台                                                         |
 | :----------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -13,6 +13,8 @@
 |   NeeView    | https://apps.microsoft.com/detail/9P24Z53HC1JR <br> https://bitbucket.org/neelabo/neeview/wiki/Home | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/windows.svg "Windows") |
 |    异次元    | https://yiciyuan.lanzoui.com/b00ej0kba                       | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
 |    漫画迷    | https://github.com/hongchacha/comic                          | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+|    oneAnime    | https://github.com/Predidit/oneAnime                          | ![](https://raw.githubusercontent.com/gliang0118/softwarelist/main/platformlogo/android.svg "安卓") |
+
 
 
 
